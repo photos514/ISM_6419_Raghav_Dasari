@@ -8,13 +8,6 @@ import numpy as np
 import pandas as pd
 
 
-# In[3]:
-
-
-get_ipython().system('pip install xlrd')
-print('xlrd installed!')
-
-
 # In[4]:
 
 
